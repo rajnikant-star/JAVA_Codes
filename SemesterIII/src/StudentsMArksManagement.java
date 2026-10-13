@@ -28,5 +28,7 @@ public class StudentsMArksManagement {
         System.out.println("Size of ArrayList"+list.size());
         System.out.println("Max Marks: "+Collections.max(list));
         System.out.println("Min Marks: "+Collections.min(list));
+//        int n = sc.nextInt();
+//        System.out.println("Frequency"+Collections.frequency(n,list));
     }
 }
